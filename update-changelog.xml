@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.49</latestVersion>
-    <latestVersionCode>49</latestVersionCode>
+    <latestVersion>1.0.51</latestVersion>
+    <latestVersionCode>51</latestVersionCode>
     <url>https://github.com/kombiahrk/afms_app/releases</url>
     <releaseNotes>
 - Bug fixes
