@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.58</latestVersion>
-    <latestVersionCode>58</latestVersionCode>
+    <latestVersion>1.0.59</latestVersion>
+    <latestVersionCode>59</latestVersionCode>
     <url>https://raw.githubusercontent.com/kombiahrk/afms_app/master/app.apk</url>
     <releaseNotes>
 - First evolution
