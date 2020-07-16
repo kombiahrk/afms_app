@@ -2,11 +2,11 @@
   <update>
     <latestVersion>1.0.65</latestVersion>
     <latestVersionCode>65</latestVersionCode>
-    <url>https://github.com/kombiahrk/afms_app/releases/download/V.1.58/app-release.apk</url>
+    <url>https://github.com/kombiahrk/afms_app/releases/download/V.1.58/app-debug.apk</url>
     <releaseNotes>
-- First evolution
-- Second evolution
+- Version 1.0.68
 - Bug fixes
+- New Bugs for future update
     </releaseNotes>
   </update>
 </AppUpdater>
