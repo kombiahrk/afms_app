@@ -2,10 +2,11 @@
   <update>
     <latestVersion>1.0.51</latestVersion>
     <latestVersionCode>51</latestVersionCode>
-    <url>https://github.com/kombiahrk/afms_app/releases</url>
+    <url>https://github.com/kombiahrk/afms_app/releases/app.apk</url>
     <releaseNotes>
+- First evolution
+- Second evolution
 - Bug fixes
-- New Bugs
     </releaseNotes>
   </update>
 </AppUpdater>
