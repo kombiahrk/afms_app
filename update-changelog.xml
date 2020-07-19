@@ -1,10 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.91</latestVersion>
-    <latestVersionCode>91</latestVersionCode>
+    <latestVersion>1.0.92</latestVersion>
+    <latestVersionCode>92</latestVersionCode>
     <url>https://github.com/kombiahrk/afms_app/raw/master/app-debug.apk</url>
     <releaseNotes>
-- Version 1.0.91
+- Version 1.0.92
 - Bug fixes
 - New Bugs for future update
     </releaseNotes>
