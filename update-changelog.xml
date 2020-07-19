@@ -1,10 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.73</latestVersion>
-    <latestVersionCode>73</latestVersionCode>
+    <latestVersion>1.0.74</latestVersion>
+    <latestVersionCode>74</latestVersionCode>
     <url>https://github.com/kombiahrk/afms_app/releases/download/V.1.58/app-debug.apk</url>
     <releaseNotes>
-- Version 1.0.73
+- Version 1.0.74
 - Bug fixes
 - New Bugs for future update
     </releaseNotes>
